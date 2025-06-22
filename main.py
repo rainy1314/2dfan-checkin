@@ -8,7 +8,7 @@ cookie_string = os.getenv('COOKIE')
 checkin_url = 'https://2dfan.com/checkins'
 check_status_url = 'https://2dfan.com/users/390366/recheckin'
 headers = {
-    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36',
     'Referer': 'https://2dfan.com/users/390366/recheckin',
     'X-Requested-With': 'XMLHttpRequest'
 }
